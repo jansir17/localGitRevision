@@ -1,3 +1,5 @@
 This file is being added from github site. So that we can check git pulling in 2 different devices.
 
 int x = 10;
+
+int x = 5;
