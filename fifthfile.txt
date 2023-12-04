@@ -3,3 +3,5 @@ This file has been created in mypc newbranch.
 int x = 5; [changing from mypc new branch];
 
 int y = 10; [mypc newbranch];
+
+String same = "changing mypc newbranch";
