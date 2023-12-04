@@ -9,3 +9,5 @@ String same = "changing mypc newbranch";
 string conflict = "mypc-newbranch";
 
 string conflict = "mypc-main";
+
+string changing = "asuspc asusbranch";
