@@ -13,3 +13,5 @@ string conflict = "mypc-main";
 string changing = "asuspc asusbranch";
 
 string changing = "asuspc main";
+
+string changin = "mypc newbranch";
