@@ -4,4 +4,8 @@ This line is from github site main.
 
 This line is from pc main.
 
+<<<<<<< HEAD
 changing line 7 from pcmain.
+=======
+changing line 7 from gitmain
+>>>>>>> 527b28e56f5612a4cdba05ba2300ddef5ea3e5e0
